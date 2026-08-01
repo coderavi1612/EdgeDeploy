@@ -1,4 +1,4 @@
-# EdgeDeploy - Project Abstract
+# EdgeDeploy
 
 **EdgeDeploy** is a cloud deployment platform inspired by modern hosting providers such as Vercel and Cloudflare Pages. It enables developers to connect a GitHub repository, automatically build their application, and deploy it to a globally accessible hosting environment with minimal configuration. The project demonstrates the core concepts behind modern Platform-as-a-Service (PaaS) solutions by implementing a complete deployment pipeline and content delivery architecture from scratch.
 
